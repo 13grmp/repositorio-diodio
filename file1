@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo aleatório</title>
+</head>
+
+<body></body>
+    <h1>Texto aleatório</h1>
+    <h2>Texto aleatório</h2>
+    <h3>Texto aleatório</h3>
+    <h4>Texto aleatório</h4>
+    <h5>Texto aleatório</h5>
+    <h6>Texto aleatório</h6>
+
+    CSS Básico 2
+
+    <p >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id cum dolorem cupiditate, aut, ex fuga voluptates vero
+        temporibus veniam delectus a eaque? Repudiandae cumque nam maiores minima neque itaque error.
+    </p>
+
+    <p >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id cum dolorem cupiditate, aut, ex fuga voluptates vero
+        temporibus veniam delectus a eaque? Repudiandae cumque nam maiores minima neque itaque error.
+    </p>
+
+    <p >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id cum dolorem cupiditate, aut, ex fuga voluptates vero
+        temporibus veniam delectus a eaque? Repudiandae cumque nam maiores minima neque itaque error.
+    </p>
+    <hr>
+    
+    <ol>
+        <li>aaaaaa</li>
+        <li><del>bbbbbbbbb</del></li>
+        <li><blockquote>cccccc</blockquote></li>
+    </ol>
+
+    <hr>
+
+    <ul>
+        <li><sup>aaaaaaa</sup></li>
+        <li><sub>bbbbbbb</sub></li>
+        <li><a href="google.com">ccccccc</a></li>
+    </ul>
+    
+    <hr>
+
+    <table>
+        <thead>
+            <tr>
+                <th><strong>Nome</strong></th>
+                <th><strong>Sobrenome</strong></th>
+                <th><strong>Idade</strong></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><small>João</small></td>
+                <td><mark>isadora</mark></td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td><i>Lais</i></td>
+                <td><u>Soares</u></td>
+                <td>23</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th >Somatório das idades:</th>
+                <td >43</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>
